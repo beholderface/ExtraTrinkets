@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
-    "minecraft:diamond_block"
+    "botania:monocle",
+    "hexcasting:lens",
+    "create:goggles"
   ]
 }
