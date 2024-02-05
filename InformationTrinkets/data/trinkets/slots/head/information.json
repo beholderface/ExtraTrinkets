@@ -1,5 +1,5 @@
 {
-	"icon": "trinkets:gui/slots/face",
+	"icon": "trinkets:gui/slots/information",
 	"drop_rule": "default",
 	"replace": false,
 	"amount": 3,
